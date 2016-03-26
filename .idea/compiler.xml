@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="TrafficFlowPlaning" />
+        <module name="None" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="TrafficFlowPlaning" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="None" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
